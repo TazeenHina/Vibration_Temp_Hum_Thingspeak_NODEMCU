@@ -9,7 +9,7 @@ DHT dht(dht_dpin, DHTTYPE);
 
 const char *ssid =  "My mobile";     // replace with your wifi ssid and wpa2 key
 const char *pass =  "12345678";
-const char *apiKey = "PSYLGFPSS28K6TBZ";
+const char *apiKey = "";
 unsigned long myChannelNumber = 1;
 float vibration;
 WiFiClient client;
